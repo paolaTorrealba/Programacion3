@@ -1,0 +1,6 @@
+<?php
+include_once("clase2/Persona.php");
+include_once("clase2/Empleado.php");
+?>
+<html>
+<head><title>PruebaNdo</title></head>
